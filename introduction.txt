@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+Hello — my name is Lala Molati. I am studying Management and I'm learning Git and GitHub. I want to improve my version control skills and complete this course project.
+I enjoy group projects and want to use GitHub to collaborate better.
